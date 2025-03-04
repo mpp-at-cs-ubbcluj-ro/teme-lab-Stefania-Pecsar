@@ -4,7 +4,13 @@
     <bytecodeTargetLevel>
       <module name="lab2" target="17" />
       <module name="lab2.main" target="17" />
+      <module name="lab2.teme-lab-Stefania-Pecsar" target="17" />
+      <module name="lab2.teme-lab-Stefania-Pecsar.main" target="17" />
+      <module name="lab2.teme-lab-Stefania-Pecsar.test" target="17" />
       <module name="lab2.test" target="17" />
+      <module name="teme-lab-Stefania-Pecsar.lab2" target="17" />
+      <module name="teme-lab-Stefania-Pecsar.lab2.main" target="17" />
+      <module name="teme-lab-Stefania-Pecsar.lab2.test" target="17" />
     </bytecodeTargetLevel>
   </component>
 </project>

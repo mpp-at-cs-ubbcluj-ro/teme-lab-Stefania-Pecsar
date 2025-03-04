@@ -4,9 +4,10 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/lab1/lab1.iml" filepath="$PROJECT_DIR$/lab1/lab1.iml" />
       <module fileurl="file://$PROJECT_DIR$/lab2.iml" filepath="$PROJECT_DIR$/lab2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lab2.main.iml" filepath="$PROJECT_DIR$/.idea/modules/lab2.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lab2.test.iml" filepath="$PROJECT_DIR$/.idea/modules/lab2.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/teme-lab-Stefania-Pecsar.iml" filepath="$PROJECT_DIR$/.idea/teme-lab-Stefania-Pecsar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/teme-lab-Stefania-Pecsar.lab2.iml" filepath="$PROJECT_DIR$/.idea/modules/teme-lab-Stefania-Pecsar.lab2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/teme-lab-Stefania-Pecsar.lab2.main.iml" filepath="$PROJECT_DIR$/.idea/modules/teme-lab-Stefania-Pecsar.lab2.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/teme-lab-Stefania-Pecsar.lab2.test.iml" filepath="$PROJECT_DIR$/.idea/modules/teme-lab-Stefania-Pecsar.lab2.test.iml" />
     </modules>
   </component>
 </project>
